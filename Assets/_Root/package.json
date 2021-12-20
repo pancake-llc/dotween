@@ -1,0 +1,24 @@
+{
+  "name": "com.snorlax.dotween",
+  "displayName": "Dotween",
+  "description": "A Unity C# animation engine.",
+  "version": "1.2.632",
+  "unity": "2019.1",
+  "category": "snorlax",
+  "author": {
+    "name": "Snorlax",
+    "email": "phongsoyenmoc.diep@gmail.com",
+    "url": "https://github.com/yenmoc"
+  },
+  "license": "MIT",
+  "keywords": ["dotween","tween","unity" ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:snorluxe/dotween.git",
+    "directory": "com.snorlax.dotween"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@snorluxe"
+  }
+}
